@@ -19,7 +19,7 @@ Welcome to the `bert-sst-finetune` repository! This repository focuses on fine-t
 
 To view and execute the Jupyter Notebook on Google Colab, access the provided link:
 
-[Open in Colab](https://github.com/FaizanFaisal25/bert-sst-finetune.git) (Replace this with the Colab link if available)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JVQLxpvHryBeJVzlzXF1wudfommfRWMz?usp=sharing)
 
 ## Usage
 
